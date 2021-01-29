@@ -1,0 +1,28 @@
+#navBar-background {
+  background-color: chocolate;
+  color: chocolate;
+}
+#conference {
+  background-image: url("../images/conference.jpg");
+  background-color: #cccccc; 
+  height: 600px; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+.height-slideshow{
+  /* height: 500px; */
+  width: 100%;
+  height: auto;
+}
+.footer-link{
+  color: white;
+}
+.footer-link:hover{
+  color: white;
+}
+.back-footer{
+  background-color: chocolate;
+}
+
+
