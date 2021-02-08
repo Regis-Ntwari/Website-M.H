@@ -10,13 +10,104 @@
         include('navbar.html')
     ?>
     <div class="container">
-    <?php
-        include('slideshow.html')
-    ?>
-    </div>
-    
-    <div class="container">
-        <p>Our event management includes conference management, interpretation and other services related</p>
+        <div class="row">
+            <div class="col-md-3 col-sm-12">
+            <div class="card mt-3">
+                    <img src="./assets/images/household items/1.jpeg" alt="events" class="card-img-top">
+                    <div class="card-header">
+                        Household item
+                    </div>
+            </div>
+            </div>
+            <div class="col-md-3 col-sm-12">
+            <div class="card mt-3">
+                    <img src="./assets/images/household items/2.jpeg" alt="events" class="card-img-top">
+                    <div class="card-header">
+                        Household item
+                    </div>
+            </div>
+            </div>
+            <div class="col-md-3 col-sm-12">
+            <div class="card mt-3">
+                    <img src="./assets/images/household items/3.jpeg" alt="events" class="card-img-top">
+                    <div class="card-header">
+                        Household item
+                    </div>
+            </div>
+            </div>
+            <div class="col-md-3 col-sm-12">
+            <div class="card mt-3">
+                    <img src="./assets/images/household items/4.jpeg" alt="events" class="card-img-top">
+                    <div class="card-header">
+                        Household item
+                    </div>
+            </div>
+            </div>
+            <div class="col-md-3 col-sm-12">
+            <div class="card mt-3">
+                    <img src="./assets/images/household items/5.jpeg" alt="events" class="card-img-top">
+                    <div class="card-header">
+                        Household item
+                    </div>
+            </div>
+            </div>
+            <div class="col-md-3 col-sm-12">
+            <div class="card mt-3">
+                    <img src="./assets/images/household items/6.jpeg" alt="events" class="card-img-top">
+                    <div class="card-header">
+                        Household item
+                    </div>
+            </div>
+            </div>
+            <div class="col-md-3 col-sm-12">
+            <div class="card mt-3">
+                    <img src="./assets/images/household items/7.jpeg" alt="events" class="card-img-top">
+                    <div class="card-header">
+                        Household item
+                    </div>
+            </div>
+            </div>
+            <div class="col-md-3 col-sm-12">
+            <div class="card mt-3">
+                    <img src="./assets/images/household items/8.jpeg" alt="events" class="card-img-top">
+                    <div class="card-header">
+                        Household item
+                    </div>
+            </div>
+            </div>
+            <div class="col-md-3 col-sm-12">
+            <div class="card mt-3">
+                    <img src="./assets/images/household items/9.jpeg" alt="events" class="card-img-top">
+                    <div class="card-header">
+                        Household item
+                    </div>
+            </div>
+            </div>
+            <div class="col-md-3 col-sm-12">
+            <div class="card mt-3">
+                    <img src="./assets/images/household items/10.jpeg" alt="events" class="card-img-top">
+                    <div class="card-header">
+                        Household item
+                    </div>
+            </div>
+            </div>
+            <div class="col-md-3 col-sm-12">
+            <div class="card mt-3">
+                    <img src="./assets/images/household items/11.jpeg" alt="events" class="card-img-top">
+                    <div class="card-header">
+                        Household item
+                    </div>
+            </div>
+            </div>
+            <div class="col-md-3 col-sm-12">
+            <div class="card mt-3">
+                    <img src="./assets/images/household items/12.jpeg" alt="events" class="card-img-top">
+                    <div class="card-header">
+                        Household item
+                    </div>
+            </div>
+            </div>
+        </div>
     </div>
     <?php
         include('footer.html')

@@ -18,7 +18,7 @@
         <div class="row">
             <div class="col-md-3 col-sm-12">
                 <div class="card mt-3">
-                    <img src="./assets/images/conference.jpg" alt="events" class="card-img-top">
+                    <img src="./assets/images/conference/2.jpeg" alt="events" class="card-img-top">
                     <div class="card-header">
                         Event Management
                     </div>
@@ -26,41 +26,41 @@
                         In event management, we include interpretation services, and other services
                     </div>
                     <div class="card-footer">
-                        <a href="event.php" class="btn btn-success">Read More</a>
+                        <a href="event.php" class="btn btn-success">see More</a>
                     </div>
                 </div>
             </div>
             <div class="col-md-3 col-sm-12">
                 <div class="card mt-3">
-                    <img src="./assets/images/conference.jpg" alt="logistics" class="card-img-top">
+                    <img src="./assets/images/logistics/gorilla.jpg" alt="logistics" class="card-img-top">
                     <div class="card-header">
-                        Logistics
+                        Hospitality
                     </div>
                     <div class="card-body">
                         Here we make you visit any place in our beloved country.
                     </div>
                     <div class="card-footer">
-                        <a href="logistics.php" class="btn btn-success">Read More</a>
+                        <a href="logistics.php" class="btn btn-success">see More</a>
                     </div>
                 </div>
             </div>
             <div class="col-md-3 col-sm-12">
                 <div class="card mt-3">
-                    <img src="./assets/images/conference.jpg" alt="Household item" class="card-img-top">
+                    <img src="./assets/images/household items/cup.jpg" alt="Household item" class="card-img-top">
                     <div class="card-header">
                         Household items
                     </div>
                     <div class="card-body">
-                        Here in household items, we include glasses, plates and other items used in any household
+                        any personnalized household item
                     </div>
                     <div class="card-footer">
-                        <a href="household.php" class="btn btn-success">Read More</a>
+                        <a href="household.php" class="btn btn-success">see More</a>
                     </div>
                 </div>
             </div>
             <div class="col-md-3 col-sm-12">
                 <div class="card mt-3">
-                    <img src="./assets/images/conference.jpg" alt="Household item" class="card-img-top">
+                    <img src="./assets/images/sport items/cover.jpg" alt="Household item" class="card-img-top">
                     <div class="card-header">
                         sport items
                     </div>
@@ -68,7 +68,7 @@
                         any shirt, leggings, and other items to help dress appropriately for any sport.
                     </div>
                     <div class="card-footer">
-                        <a href="sport.php" class="btn btn-success">Read More</a>
+                        <a href="sport.php" class="btn btn-success">see More</a>
                     </div>
                 </div>
             </div>

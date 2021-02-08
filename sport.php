@@ -11,17 +11,88 @@
     <?php
         include('navbar.html')
     ?>
-    <?php
-        include('slideshow.html')
-    ?>
     <div class="container">
         <div class="row">
-        <p>Lorem ipsum dolor 
-        sit amet consectetur, 
-        adipisicing elit. A, 
-        totam adipisci asperiores qui perferendis dolorum deserunt 
-        exercitationem distinctio reprehenderit dolorem omnis cum, 
-        iure sit minus eius sequi, earum aliquam. Consequatur.</p>
+            <div class="col-md-3 col-sm-12">
+            <div class="card mt-3">
+                    <img src="./assets/images/sport items/1.jpeg" alt="events" class="card-img-top">
+                    <div class="card-header">
+                        sport Item
+                    </div>
+            </div>
+            </div>
+            <div class="col-md-3 col-sm-12">
+            <div class="card mt-3">
+                    <img src="./assets/images/sport items/2.jpeg" alt="events" class="card-img-top">
+                    <div class="card-header">
+                    sport Item
+                    </div>
+            </div>
+            </div>
+            <div class="col-md-3 col-sm-12">
+            <div class="card mt-3">
+                    <img src="./assets/images/sport items/3.jpeg" class="img-card-clear" alt="events" class="card-img-top">
+                    <div class="card-header">
+                    sport Item
+                    </div>
+            </div>
+            </div>
+            <div class="col-md-3 col-sm-12">
+            <div class="card mt-3">
+                    <img src="./assets/images/sport items/4.jpeg" class="img-card-clear" alt="events" class="card-img-top">
+                    <div class="card-header">
+                    sport Item
+                    </div>
+            </div>
+            </div>
+            <div class="col-md-3 col-sm-12">
+            <div class="card mt-3">
+                    <img src="./assets/images/sport items/9.jpeg" class="img-card-clear" alt="events" class="card-img-top">
+                    <div class="card-header">
+                    sport Item
+                    </div>
+            </div>
+            </div>
+            <div class="col-md-3 col-sm-12">
+            <div class="card mt-3">
+                    <img src="./assets/images/sport items/11.jpeg" class="img-card-clear" alt="events" class="card-img-top">
+                    <div class="card-header">
+                    sport Item
+                    </div>
+            </div>
+            </div>
+            <div class="col-md-3 col-sm-12">
+            <div class="card mt-3">
+                    <img src="./assets/images/sport items/12.jpeg" class="img-card-clear" alt="events" class="card-img-top">
+                    <div class="card-header">
+                    sport Item
+                    </div>
+            </div>
+            </div>
+            <div class="col-md-3 col-sm-12">
+            <div class="card mt-3">
+                    <img src="./assets/images/sport items/13.jpeg" class="img-card-clear" alt="events" class="card-img-top">
+                    <div class="card-header">
+                    sport Item
+                    </div>
+            </div>
+            </div>
+            <div class="col-md-3 col-sm-12">
+            <div class="card mt-3">
+                    <img src="./assets/images/sport items/14.jpeg" class="img-card-clear" alt="events" class="card-img-top">
+                    <div class="card-header">
+                    sport Item
+                    </div>
+            </div>
+            </div>
+            <div class="col-md-3 col-sm-12">
+            <div class="card mt-3">
+                    <img src="./assets/images/sport items/15.jpeg" class="img-card-clear" alt="events" class="card-img-top">
+                    <div class="card-header">
+                    sport Item
+                    </div>
+            </div>
+            </div>
         </div>
     </div>
     
